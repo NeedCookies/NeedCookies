@@ -16,6 +16,7 @@ My skills:
 (I know all of the above at basic level and have managed to apply it only on my own ped-projects)
 
 How to connect with me: 
+<img src="https://t.me/Cookies_So" alt="" data-canonical-src="https://img.shields.io/badge/Telegram-CookiesSo-brightgreen?logo=telegram" style="max-width: 100%;">
 <!--
 **NeedCookies/NeedCookies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
