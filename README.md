@@ -1,7 +1,4 @@
-Hello, Im Emil Kalimullin, backend.Net developer from Kazan. I'm a passionate self-taught developer and sometimes I feel like this one:
-<iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="457" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">via GIPHY</a></p>
-But despite of all difficulties I continue work and improve my skills in backend development.
-
+Hello, Im Emil Kalimullin, backend.Net developer from Kazan.
 My skills:
 1) .Net
    - C# language 
