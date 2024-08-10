@@ -1,5 +1,6 @@
-# Hello, Im Emil Kalimullin, backend .Net developer from Kazan.
-### My skills:
+# Hi everyone 👋
+### I`m Emil Kalimullin, backend .Net developer from Kazan.
+### My skills📜:
 1. **.Net**
    - C# language 
    - ORM (Dapper, EntityFramefork)
@@ -39,7 +40,7 @@
    </tr>
 </table>
 
-### Currently learn
+### Currently learn 📚
 * Microservices architecture
 * Algoritms
 * linux platform
