@@ -46,6 +46,11 @@
 * linux platform
 * English language
 
+You can also check my most interesting repositories:
+* [Nippo](https://github.com/NeedCookies/Nippo) - online courses marketplace
+* [TNKFF_ALGO_COURSES](https://github.com/NeedCookies/TNKFF-ALGO-Course) - tasks solutions from algo course in Tinkoff💘 bank
+* [LeetCode](https://github.com/NeedCookies/LeetCode) - tasks colutions from leetcode
+
 How to connect with me: 
   * [Telegram](https://t.me/Cookies_So),  
   * Email: emilkalimmain@gmail.com
