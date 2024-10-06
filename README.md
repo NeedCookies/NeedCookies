@@ -6,18 +6,18 @@
    - ORM (Dapper, EntityFramefork)
    - ASP.Net Core MVC | Asp.Net Core API
    - Clean, MVC, N-Layer Architectures
-2. **python**
-  - syntax
+2. **Python**
+  - syntax  
   - request, Selenium, BeautifulSoap, telebot, email and some of other built-in libraries for work with Web sites
 3. **Algoritms and data structures**
-  * Structures:
-    ** Stack, Queue, Deque, heap,  Graphs, Binary Trees, Segment Tree, hash-table;
-  * Algoritms:
+  * Structures:  
+    - Stack, Queue, Deque, heap,  Graphs, Binary Trees, Segment Tree, hash-table;
+  * Algoritms:  
     - binary search (-on answer), prefix sums, quick sort, graph search algorithms (BFS, DFS, Floyd etc.), scanlyne, dynamic programming.
 4. **Other tecnologies**
-   - docker
-   - rabbitMQ
-   - redis, postrgreSQL, mongoDB
+   - docker, docker-compose
+   - rabbitMQ, Kafka
+   - redis, postrgreSQL, Cassandra
    - linux base skills, bash
 
 ### Languages 🌐
@@ -48,7 +48,8 @@
 
 You can also check my most interesting repositories:
 * [Nippo](https://github.com/NeedCookies/Nippo) - online courses marketplace
-* [TNKFF_ALGO_COURSES](https://github.com/NeedCookies/TNKFF-ALGO-Course) - tasks solutions from algo course in Tinkoff💘 bank
+* [Search Engine](https://github.com/NeedCookies/IUE_Ozon_Hack) - microservices based search engine (steel in development)
+* [TNKFF_ALGO_COURSES](https://github.com/NeedCookies/TNKFF-ALGO-Course) - tasks solutions from algo course in Tinkoff💘(T) bank
 * [LeetCode](https://github.com/NeedCookies/LeetCode) - tasks colutions from leetcode
 
 How to connect with me: 
