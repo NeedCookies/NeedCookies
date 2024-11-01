@@ -48,7 +48,7 @@
 
 You can also check my most interesting repositories:
 * [Nippo](https://github.com/NeedCookies/Nippo) - online courses marketplace
-* [Search Engine](https://github.com/NeedCookies/IUE_Ozon_Hack) - microservices based search engine (steel in development)
+* [Swoley fit](https://github.com/NeedCookies/swoley-fit) - single page application created on react + JS + tailwind styles)
 * [TNKFF_ALGO_COURSES](https://github.com/NeedCookies/TNKFF-ALGO-Course) - tasks solutions from algo course in Tinkoff💘(T) bank
 * [LeetCode](https://github.com/NeedCookies/LeetCode) - tasks colutions from leetcode
 
